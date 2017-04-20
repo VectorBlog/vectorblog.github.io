@@ -8,6 +8,8 @@
     <h1>404: Page Not Found</h1>
     <script>
       console.error("Attempted to access " + window.location.href);
+      var path = window.location.href.split("/");
+      window.location.href = "http://nohohgmblog.wixsite.com/vector/" + path[path.length - 1];
     </script>
   </body>
 </html>
