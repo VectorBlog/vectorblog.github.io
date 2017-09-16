@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta http-equiv="refresh" content="0; url=http://hgmblog.com/FireAlarmWidget/calendar/calendar.html"/>
+    <meta property="og:title" content="NHHS Fire Alarm Statistics">
+    <meta property="og:description" content="Statistics about the frequency of fire alarms occurring at North Hollywood High School">
     <title>NHHS Fire Alarm Statistics - Vector: The Official Blog of the HGM</title>
     <meta name="Description" content="Statistics about the frequency of fire alarms occurring at North Hollywood High School">
   </head>
